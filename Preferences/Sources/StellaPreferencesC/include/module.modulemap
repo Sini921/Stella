@@ -1,0 +1,4 @@
+module StellaPreferencesC {
+    umbrella "."
+    export *
+}

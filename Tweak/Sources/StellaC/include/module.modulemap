@@ -1,0 +1,4 @@
+module StellaC {
+    umbrella "."
+    export *
+}
