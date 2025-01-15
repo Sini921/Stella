@@ -7,14 +7,14 @@
   2. Install Stella
 
 ## Compatibility
-  iPhones with a rootless jailbreak running iOS 14 or newer.
+  iPhones and iPads with a jailbreak running iOS 14 or newer.
 
 ## Compiling
-Theos is required to build this project.
+[Theos](https://github.com/theos/theos) is required to build this project.
 
   - Clone this repository using `git clone https://github.com/yandevelop/Stella`
   - `cd Stella`
   - Run `./build_release.sh`
 
 ## License
-You may not copy, modify, sublicense or distribute the source code or any packages from it.
+The source code may be copied and modified solely for educational purposes. Redistribution of the original or modified code is strictly prohibited.
