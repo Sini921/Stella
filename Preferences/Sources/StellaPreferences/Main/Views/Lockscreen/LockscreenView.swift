@@ -44,7 +44,7 @@ struct LockscreenView: View {
                 Text("Very slow").tag(5.0)
                 Text("Slow").tag(18.0)
                 Text("Normal").tag(30.0)
-                Text("Fast").tag(90)
+                Text("Fast").tag(90.0)
                 Text("Snowstorm").tag(350.0)
             }
             .pickerStyle(SegmentedPickerStyle())
